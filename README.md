@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 Soy Profesor e Investigador en Ciencias de la Computación con más de 20 años de experiencia en tecnología y educación. Mi pasión se centra en Inteligencia Artificial, Visión por Computadora y Ciberseguridad, desarrollando proyectos de investigación aplicada como sistemas automatizados de monitoreo con Deep Learning y Edge AI.
-Mis áreas de especialización incluyen programación, procesamiento de lenguaje natural, ciencia de datos, redes, bases de datos y ciberseguridad. He publicado en revistas científicas y conferencias internacionales desde 2019. Puedes encontrar mis proyectos de investigación, publicaciones y recursos educativos aquí en mi GitHub.Reintentar
+Mis áreas de especialización incluyen programación, procesamiento de lenguaje natural, ciencia de datos, redes, bases de datos y ciberseguridad. He publicado en revistas científicas y conferencias internacionales desde 2019. Puedes encontrar mis proyectos de investigación, publicaciones y recursos educativos aquí en mi GitHub.
 
 ## 💻 Tecnologías y Herramientas
 <p>
